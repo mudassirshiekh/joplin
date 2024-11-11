@@ -19,6 +19,7 @@ The application is available for Windows, Linux, macOS, Android and iOS. A [Web 
 <div class="top-screenshot"><img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/home-top-img.png" style="max-width: 100%; max-height: 35em;"></div>
 
 # Help and documentation
+## By Mudassir Alam
 
 For more information about the applications, see the [full Joplin documentation](https://joplinapp.org)
 
